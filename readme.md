@@ -4,6 +4,6 @@
 \margl1440\margr1440\vieww9000\viewh8400\viewkind0
 }
 
-![Todo App List ](Images/screen1.png)
+![Todo App List ](screen1.png)
 
-![Todo App Done Action](Images/screen2.png)
+![Todo App Done Action](screen2.png)
